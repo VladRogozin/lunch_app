@@ -4,7 +4,7 @@ The project is divided into 3 applications that interact with each other:
 
 2. lunch_app - is the main application that contains the project settings and configuration.
 
-3. users is - the app, which is responsible for registration, authorization, and employee information. It also includes small tests.
+3. users - is the app, which is responsible for registration, authorization, and employee information. It also includes small tests.
 
 4. vote_api - is the application that displays the results of votes and also contains small tests.
 
@@ -36,7 +36,7 @@ Each application performs a different role and provides interaction between the 
 3. Run the system in Docker containers using the command:
    ```shell
    docker compose up --build
-4. If you have the plugin version of DComps, use the
+4. If you have the plugin version of DComps, use the command:
 
     ```shell
-   command docker-compose up-build.
+   docker-compose up-build.
