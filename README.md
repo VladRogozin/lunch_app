@@ -23,6 +23,7 @@
 3. Run the system in Docker containers using the command:
    ```shell
    docker compose up --build
-If you have the plugin version of DComps, use the
+4. If you have the plugin version of DComps, use the
+
     ```shell
    command docker-compose up-build.
