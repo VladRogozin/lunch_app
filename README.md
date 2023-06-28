@@ -1,12 +1,12 @@
 ## A brief comment about the project
 The project is divided into 3 applications that interact with each other:
-1. lunch_api - is the app that contains restaurant information, menus, and menu voting.
+1. lunch_api - is the app that contains restaurant information, menus, and menu voting, small tests.
 
 2. lunch_app - is the main application that contains the project settings and configuration.
 
 3. users - is the app, which is responsible for registration, authorization, and employee information. It also includes small tests.
 
-4. vote_api - is the application that displays the results of votes and also contains small tests.
+4. vote_api - is the application that displays the results of votes and also contains.
 
 Each application performs a different role and provides interaction between the components of the system. This modular structure makes it easy to develop, maintain, and extend the project.
 
