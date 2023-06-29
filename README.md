@@ -7,7 +7,7 @@ The project is divided into 3 applications that interact with each other:
 3. users - is the app, which is responsible for registration, authorization, and employee information. It also includes small tests.
 
 4. vote_api - is the application that displays the results of votes and also contains.
-5. 
+
 I also marked large functions with comments in Ukrainian for better understanding
 
 Each application performs a different role and provides interaction between the components of the system. This modular structure makes it easy to develop, maintain, and extend the project.
