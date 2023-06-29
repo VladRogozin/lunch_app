@@ -33,10 +33,10 @@ Each application performs a different role and provides interaction between the 
 
 2. Navigate to the directory containing the docker-compose.yml file.
 
-3. Run the system in Docker containers using the command:
+3. If you have the plugin version of DComps, use the command:
    ```shell
    docker compose up --build
-4. If you have the plugin version of DComps, use the command:
+4. Else run the system in Docker containers using the command:
 
     ```shell
    docker-compose up-build.
